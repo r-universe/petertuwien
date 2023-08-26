@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "chemometrics"]
-	path = chemometrics
-	url = https://github.com/cran/chemometrics
 [submodule "mvoutlier"]
 	path = mvoutlier
 	url = https://github.com/cran/mvoutlier
